@@ -26,8 +26,6 @@
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **liamdevxd@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [xnprotect](https://discordapp.com/users/1020237427945787422) my username!
 <!--Intro end-->
 
 
